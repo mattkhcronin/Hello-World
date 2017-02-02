@@ -1,4 +1,3 @@
-version: "1"
 web:
  image: "croninregistry-on.azurecr.io/hello-world:latest"
  ports:
