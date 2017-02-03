@@ -1,5 +1,5 @@
 web:
- image: "croninregistry-on.azurecr.io/hello-world:latest"
+ image: "croninregistry-on.azurecr.io/hello-world"
  ports:
   - "80:8080"
  restart: "always"
